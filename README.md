@@ -83,5 +83,5 @@
 <h2 align="center">My activity</h2>
 
 <div align="center">
-  <img src="https://github.com/manu-cj/manu-cj/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/GiovanniTY-cj/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
