@@ -60,7 +60,7 @@
 <div align="center">
    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GiovanniTY&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
    
-   <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTY&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=css,html,hack,Dockerfile,scss"/>
+   <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniTY&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000"/>
 </div>
 
 <div align="center">
@@ -82,3 +82,4 @@
 <div align="center">
   <img src="https://github.com/GiovanniTY/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
+
