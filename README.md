@@ -5,7 +5,7 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header" />
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=1BF7B3&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=Hi,+I'm+Giovanni;I'm+a+Full+Stack+Developer;Be+Welcome!+😁">
+<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=Hi,+I'm+Giovanni;I'm+a+Full+Stack+Developer;Be+Welcome!+😁">
 
 <br/>  
 <br/>  
@@ -35,7 +35,7 @@
        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=99000&center=true&vCenter=truerandom=false&reapeat=false&width=435&height=100&lines=Interests">
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py" />
+          <img src="https://skillicons.dev/icons?i=py,nodejs" />
         </a>
       </p>
     </td>
