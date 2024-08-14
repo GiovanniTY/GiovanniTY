@@ -69,7 +69,7 @@
 <br>
 <div align="center">
  <a href="https://www.linkedin.com/in/giovannitummino" target="_blank">
-       <img height="30" width="120" title="linkedin.com/in/giovannitummino/" src="./linkedin.png">
+       <img height="30" width="120" title="[linkedin.com/in/giovannitummino/](https://www.linkedin.com/in/giovanni-tummino/)" src="./linkedin.png">
    </a>
 </div>
 
