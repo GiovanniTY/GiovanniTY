@@ -1,5 +1,5 @@
 <meta name="description" content="GitHub profile in blue color">
-<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript,React, HTML5, CSS3, PHP, MySQL, MongoDB"/>
+<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, HTML5, CSS3, PHP, MySQL"/>
 
 <div>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header" />
@@ -17,7 +17,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=99000&center=true&vCenter=truerandom=false&reapeat=false&width=435&height=100&lines=Frontend">
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,sass,js,vue,pinia" />
+          <img src="https://skillicons.dev/icons?i=html,sass,js" />
         </a>
       </p>
     </td>
@@ -26,16 +26,16 @@
        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=99000&center=true&vCenter=truerandom=false&reapeat=false&width=435&height=100&lines=Backend">
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,php,docker,mysql" />
+          <img src="https://skillicons.dev/icons?i=php,mysql" />
         </a>
       </p>
     </td>
     <td valign="top" width="33%" style="border: 2px solid black; padding: 10px; background-color: #d9d9d9;">
        <br>
-       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=99000&center=true&vCenter=truerandom=false&reapeat=false&width=435&height=100&lines=Other">
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=99000&center=true&vCenter=truerandom=false&reapeat=false&width=435&height=100&lines=Interests">
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,py,linux" />
+          <img src="https://skillicons.dev/icons?i=py" />
         </a>
       </p>
     </td>
