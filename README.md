@@ -69,9 +69,10 @@
 <br>
 <div align="center">
  <a href="http://www.linkedin.com/in/giovanni-tummino" target="_blank">
-       <img height="30" width="120" title="linkedin.com/in/giovanni-tummino" src="./linkedin.png">
+       <img height="30" width="30" title="linkedin.com/in/giovanni-tummino" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
    </a>
 </div>
+
 
 <a href="#">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
