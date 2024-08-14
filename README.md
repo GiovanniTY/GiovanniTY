@@ -48,7 +48,7 @@
       </div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,react,graphQL" />
+          <img src="https://skillicons.dev/icons?i=ts,react" />
         </a>
       </p>
     </td>
@@ -77,7 +77,6 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a> 
 
-<h2 align="center">My activity</h2>
 
 <div align="center">
   <img src="https://github.com/GiovanniTY/blob/output/github-contribution-grid-snake-dark.svg">
