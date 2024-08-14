@@ -68,14 +68,15 @@
 </div>
 <br>
 <div align="center">
- <a href="https://www.linkedin.com/in/giovannitummino" target="_blank">
-       <img height="30" width="120" title="[linkedin.com/in/giovannitummino/](https://www.linkedin.com/in/giovanni-tummino/)" src="./linkedin.png">
+ <a href="http://www.linkedin.com/in/giovanni-tummino" target="_blank">
+       <img height="30" width="120" title="linkedin.com/in/giovanni-tummino" src="./linkedin.png">
    </a>
 </div>
 
 <a href="#">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
-</a> 
+</a>
+
 
 
 <div align="center">
